@@ -1,8 +1,8 @@
 """Interface de linha de comando para o simulador de memoria cache.
 
 Autores:
-- [Seu Nome]
-- [Nome do Colega]
+- Henrique Zimermann
+- Gabriel Sereia
 
 O programa le os parametros da cache, carrega os enderecos de um arquivo texto
 e delega a simulacao para a classe CacheSimulator.
