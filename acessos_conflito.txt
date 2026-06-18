@@ -1,4 +1,3 @@
-# Sequencia para testar substituicao em mapeamento direto e por conjunto
 0x0000
 0x0010
 0x0020

@@ -15,7 +15,7 @@ run:
 	$(PYTHON) $(SCRIPT) --cache-size 1024 --block-size 32 --assoc 2 --addr-bits 16 --input acessos.txt
 
 verbose:
-	$(PYTHON) $(SCRIPT) --cache-size 512 --block-size 8 --assoc 4 --addr-bits 16 --input acessos.txt --verbose
+	$(PYTHON) $(SCRIPT) --cache-size 256 --block-size 16 --assoc 1 --addr-bits 16 --input acessos.txt --verbose
 
 fifo:
 	$(PYTHON) $(SCRIPT) --cache-size 2048 --block-size 64 --assoc 8 --addr-bits 32 --input acessos_conflito.txt --policy FIFO
