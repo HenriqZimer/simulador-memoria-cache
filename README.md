@@ -4,8 +4,8 @@
 - Henrique Zimermann
 - Gabriel Sereia
 
-Link da Apresentacao:
-[## Link da Apresentacao:](https://youtu.be/R5oLmub8Z7w)
+## Link da Apresentacao:
+[###YouTube:](https://youtu.be/R5oLmub8Z7w)
 
 ## Descrição
 Este projeto implementa um simulador de memória cache em Python, conforme a prática M3 de Organização de Computadores. O simulador lê uma sequência de endereços de memória, decompõe cada endereço em `tag`, `index` e `offset`, simula os acessos na cache e apresenta estatísticas de desempenho.
